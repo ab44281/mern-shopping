@@ -15,7 +15,7 @@ const Navbar = ({click}) => {
     <nav className="navbar">
       {/* logo */}
       <div className="navbar_logo">
-        <h2>MERN Shopping Cart</h2>
+        <h2>MERN SHOPPING CART</h2>
       </div>
 
       {/* links */}
